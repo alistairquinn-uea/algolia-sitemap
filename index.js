@@ -64,7 +64,7 @@ function init({
     await saveSiteMap({
       sitemap: sitemapIndex,
       root: outputFolder,
-      filename: 'sitemap-index',
+      filename: 'sitemap',
     });
   };
 
